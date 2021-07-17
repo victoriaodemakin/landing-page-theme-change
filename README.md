@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL ](https://github.com/victoriaodemakin/landing-page)
-- Live Site URL: [live site URL ](https://victoriaodemakin.github.io/landing-page/)
+- Solution URL: [solution URL ](https://github.com/victoriaodemakin/landing-page-theme-change)
+- Live Site URL: [live site URL ](https://victoriaodemakin.github.io/landing-page-theme-change/)
 
 ## My process
 
